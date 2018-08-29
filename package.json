@@ -1,0 +1,10 @@
+{
+  "name": "nodeLR",
+  "version": "0.0.1",
+  "dependencies" : {
+    "appdynamics" : "*"
+  },
+  "engine": {
+    "node": "9.4"
+  }
+}
